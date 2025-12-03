@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "いけないボーダーライン",
+  "base_artist": "ワルキューレ",
+  "createdAt": "2025-12-03T13:32:03.110798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/01_いけないボーダーライン_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いけないボーダーライン (Live Ver.)",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/02_いけないボーダーライン_(Live_Ver.)_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いけないボーダーライン～Album Version～",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/03_いけないボーダーライン~Album_Version~_ワルキューレ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/04_いけないボーダーライン_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ikenai Borderline (Macross Delta Insert song) - いけないボーダーライン（ＴＶアニメーション「マクロスΔ」挿入歌）",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/05_Ikenai_Borderline_(Macross_Delta_Insert_song)_-_いけないボーダーライン(TVアニメーション「マクロスΔ」挿入歌)_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "ワルキューレ (Walküre); 美雲ΔJUNNA (Mikumo Δ JUNNA); フレイアΔ鈴木みのり (Freyja Δ Suzuki Minori); カナメΔ安野希世乃 (Kaname Δ Yasduno Kiyono); レイナΔ東山奈央 (Reina Δ Touyama Nao); マキナΔ西田望見 (Makina Δ Nishida Nozomi)",
+      "has_synced": true,
+      "path": "select/06_いけないボーダーライン_ワルキューレ_(Walküre);_美雲ΔJUNNA_(Mikumo_Δ_JUNNA);_フレイアΔ鈴木みのり_(Freyja_Δ_Suzuki_Minori).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いけないボーダーライン - Ikenai Borderline",
+      "artist": "Walkure",
+      "has_synced": true,
+      "path": "select/07_いけないボーダーライン_-_Ikenai_Borderline_Walkure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いけないボーダーライン 〜album version〜",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/08_いけないボーダーライン_〜album_version〜_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いけないボーダーライン -Instrumental-",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/09_いけないボーダーライン_-Instrumental-_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "Walküre",
+      "has_synced": true,
+      "path": "select/10_いけないボーダーライン_Walküre.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いけないボーダーライン 〜album version〜",
+      "artist": "ワルキューレ/",
+      "has_synced": true,
+      "path": "select/11_いけないボーダーライン_〜album_version〜_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いけないボーダーライン(角色歌曲赏/キャラクターソング賞)",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/12_いけないボーダーライン(角色歌曲赏_キャラクターソング賞)_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "シェリル・ランカ・ワルキューレ",
+      "has_synced": false,
+      "path": "select/13_いけないボーダーライン_シェリル・ランカ・ワルキューレ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "carnivalxenon",
+      "has_synced": true,
+      "path": "select/14_いけないボーダーライン_carnivalxenon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "いけないボーダーライン",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/15_いけないボーダーライン_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "いけないボーダーライン ～album version～",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/16_いけないボーダーライン_~album_version~_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "いけないボーダーライン 〜album version〜",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/17_いけないボーダーライン_〜album_version〜_ワルキューレ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いけないボーダーライン",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/pl_01_いけないボーダーライン_ワルキューレ.txt"
+    }
+  ]
+}
